@@ -10,7 +10,7 @@ Projeto prático para visualizar consumo de memória RAM com NODEJS.
 
 1. Clone do repositório
 
-`$ git clone git@github.com:wr2net/github-api-reference-dio.git`
+`$ git clone git@github.com:wr2net/hardware-watch.git`
 
 2. Rodando
 
